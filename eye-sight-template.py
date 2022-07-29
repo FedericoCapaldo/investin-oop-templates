@@ -4,7 +4,7 @@
 # IMPORTANT: Follow the correct order of the instructions to create you program successfully!
 
 
-# 1. Create a Customer class
+# 1.0 Create a Customer class
 # 1.1 the class should be initialized with the following properties (only name is received during object creation)
 #   name
 #   eye_sight_visits (just an empty list)
@@ -13,7 +13,7 @@
 # 8. create a function that returns all the eyesight tests (i.e. eye_sight_visits)
 
 
-# 3. Create class EyesightTest
+# 3.0 Create class EyesightTest
 # 3.1 the class should be initialized with the following properties (all received at object creation)
 #   short_sightedness (it is measured from 0 - perfert eye - until -10.00)
 #   astigmatism (it is measured from 0 - perfect eye - until 20.00)
@@ -24,7 +24,7 @@
 if __name__ == "__main__":
     print("hello, world")
 
-    # 2. create a customer object jenny
+    # 2.0 create a customer object jenny
     #  initialize this object with name 'jenny'
 
     # 2.1 make jenny say hello (this should print out on the screen)

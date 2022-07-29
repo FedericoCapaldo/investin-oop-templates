@@ -3,7 +3,7 @@
 #  Then create an object with a date of your choice and print it back with a fucntion.
 
 
-# 1. create DateStamp class
+# 1.0 create DateStamp class
 # 1.1 the class should should be initialized with the following properties (all received at object creation)
 #   day
 #   month

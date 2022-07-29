@@ -4,14 +4,14 @@
 # IMPORTANT: Follow the correct order of the instructions to create you program successfully!
 
 
-# 1. create a Patient class
+# 1.0 create a Patient class
 # 1.1 the class should be initialized with the following properties (all received at object creation)
 #   first_name
 #   last_name
 # 1.2 create a function get_name() that returns the full name of the patient
 
 
-# 4. create a Doctor class
+# 4.0 create a Doctor class
 # 4.1 the class should be initialized with the following properites:
 #   first_name
 #   last_name
@@ -20,14 +20,14 @@
 # 4.3 create a function get_specialization() that returns the specialization of this doctor
 
 
-# 7. Create a GP_Practice class
+# 7.0 Create a GP_Practice class
 # 7.1 the class should be initialized with the following properites (only practice_name is received during object creation)
 #   practice_name
 #   patient_list (just an empty list)
 #   doctor_list (just an empty list)
 #   appointments (just an empty list)
 # 7.2 create a function get_practice_name() that returns the practice_name
-# 10. (make sure you have completed step 8 and 9 before proceeding here)
+# 10.0 (make sure you have completed step 8 and 9 before proceeding here)
 # 10.1 create a function called add_patient_to_practice(new_patient) that adds a new_patient to the patient_list of the practice.
 # 12. create a function called add_doctor_to_practice(new_doctor) that adds a doctor to the doctor of the practice.
 # 15. create a function called create_appointment( patient, doctor, date, notes="") that creates a new Appointment object and adds it to the appointments_list of the practice
@@ -35,7 +35,7 @@
 # 19. Extra question: only allow booking of appointment if patient and doctor are part of the practice,
 #   otherwise print a message back to the user that the booking cannot be done.
 
-# 14. create an Appointment class
+# 14.0 create an Appointment class
 # 14.1 the class should be initialized with the following properites (all received at object creation, notes is not compulsory)
 #   patient
 #   doctor
