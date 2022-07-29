@@ -27,7 +27,7 @@ if __name__ == "__main__":
     # 2.0 create a customer object jenny
     #  initialize this object with name 'jenny'
 
-    # 2.1 make jenny say hello (this should print out on the screen)
+    # 2.1 make jenny say hello (verify that this prints out on the screen)
 
     # 4. create and EyeTest object test1
     # initialize this object with the desired values (hopefully our customer has good eyesight!),
